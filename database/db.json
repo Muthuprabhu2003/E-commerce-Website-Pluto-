@@ -1,0 +1,256 @@
+{
+  "users": [
+    {
+      "id": "84f7",
+      "name": "client",
+      "email": "Client001@gmail.com",
+      "password": "123456",
+      "time": "18/7/2025, 10:59:52 pm"
+    },
+    {
+      "id": "2437",
+      "name": "client",
+      "email": "Client002@gmail.com",
+      "password": "123456",
+      "time": "10/7/2025, 9:09:47 pm"
+    },
+    {
+      "id": "5f8a",
+      "name": "client003",
+      "email": "client003@gmail.com",
+      "password": "123456",
+      "time": "10/7/2025, 9:13:13 pm"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1136",
+      "cart": [
+        {
+          "id": 2,
+          "name": "Mango",
+          "image": "https://wallpapercave.com/wp/wp2756455.jpg",
+          "price": 29,
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "name": "Banana",
+          "image": "https://images5.alphacoders.com/376/376700.jpg",
+          "price": 20,
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "name": "Grapes",
+          "image": "https://images.pexels.com/photos/128420/pexels-photo-128420.jpeg",
+          "price": 31,
+          "quantity": 1
+        },
+        {
+          "id": 5,
+          "name": "Tomato",
+          "image": "https://images.pexels.com/photos/839725/pexels-photo-839725.jpeg",
+          "price": 30,
+          "quantity": 1
+        },
+        {
+          "id": 6,
+          "name": "Potato",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2022/07/GettyImages-1224918845-e1658929817975.jpg?w=2036",
+          "price": 31,
+          "quantity": 1
+        },
+        {
+          "id": 12,
+          "name": "Tomato",
+          "image": "https://wallpapercave.com/wp/wp5329501.jpg",
+          "price": 23,
+          "quantity": 1
+        }
+      ],
+      "total": "164.00"
+    },
+    {
+      "id": "a10d",
+      "cart": [
+        {
+          "id": 2,
+          "name": "Mango",
+          "image": "https://wallpapercave.com/wp/wp2756455.jpg",
+          "price": 29,
+          "quantity": 2
+        },
+        {
+          "id": 3,
+          "name": "Banana",
+          "image": "https://images5.alphacoders.com/376/376700.jpg",
+          "price": 20,
+          "quantity": 2
+        },
+        {
+          "id": 4,
+          "name": "Grapes",
+          "image": "https://images.pexels.com/photos/128420/pexels-photo-128420.jpeg",
+          "price": 31,
+          "quantity": 2
+        },
+        {
+          "id": 5,
+          "name": "Tomato",
+          "image": "https://images.pexels.com/photos/839725/pexels-photo-839725.jpeg",
+          "price": 30,
+          "quantity": 2
+        },
+        {
+          "id": 6,
+          "name": "Potato",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2022/07/GettyImages-1224918845-e1658929817975.jpg?w=2036",
+          "price": 31,
+          "quantity": 2
+        },
+        {
+          "id": 12,
+          "name": "Tomato",
+          "image": "https://wallpapercave.com/wp/wp5329501.jpg",
+          "price": 23,
+          "quantity": 1
+        },
+        {
+          "id": 10,
+          "name": "Eggs 3 pack(s)",
+          "image": "https://static.vecteezy.com/system/resources/previews/030/637/826/non_2x/eggs-image-hd-free-photo.jpg",
+          "price": 37,
+          "quantity": 1
+        },
+        {
+          "id": 16,
+          "name": "Cheese 2 pack(s)",
+          "image": "https://wallpaperaccess.com/full/1970466.jpg",
+          "price": 45,
+          "quantity": 1
+        }
+      ],
+      "total": "387.00"
+    },
+    {
+      "id": "bd1a",
+      "cart": [
+        {
+          "id": 1,
+          "name": "Apple",
+          "image": "https://images.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+          "price": 27,
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "name": "Mango",
+          "image": "https://wallpapercave.com/wp/wp2756455.jpg",
+          "price": 26,
+          "quantity": 4
+        },
+        {
+          "id": 3,
+          "name": "Banana",
+          "image": "https://images5.alphacoders.com/376/376700.jpg",
+          "price": 21,
+          "quantity": 6
+        },
+        {
+          "id": 4,
+          "name": "Grapes",
+          "image": "https://images6.alphacoders.com/368/368747.jpg",
+          "price": 33,
+          "quantity": 2
+        },
+        {
+          "id": 16,
+          "name": "Mango",
+          "image": "https://wallpapercave.com/wp/wp2756455.jpg",
+          "price": 29,
+          "quantity": 3
+        },
+        {
+          "id": 20,
+          "name": "Potato",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2022/07/GettyImages-1224918845-e1658929817975.jpg?w=2036",
+          "price": 33,
+          "quantity": 4
+        },
+        {
+          "id": 9,
+          "name": "Milk 3 pack(s)",
+          "image": "https://wallpaperaccess.com/full/1751370.jpg",
+          "price": 24,
+          "quantity": 2
+        },
+        {
+          "id": 17,
+          "name": "Milk 3 pack(s)",
+          "image": "https://wallpaperaccess.com/full/1751370.jpg",
+          "price": 28,
+          "quantity": 2
+        },
+        {
+          "id": 15,
+          "name": "Bread 1 pack(s)",
+          "image": "https://images.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+          "price": 33,
+          "quantity": 1
+        }
+      ],
+      "total": "679.00"
+    },
+    {
+      "id": "0558",
+      "cart": [
+        {
+          "id": 3,
+          "name": "Crab 0.5kg",
+          "image": "https://www.nutritionadvance.com/wp-content/uploads/2021/02/cooked-crab.jpg",
+          "price": 345,
+          "quantity": 1
+        },
+        {
+          "id": 9,
+          "name": "Chicken 0.5kg",
+          "image": "https://img.freepik.com/premium-photo/raw-chicken-meat-white-background_58830-688.jpg?w=2000",
+          "price": 171,
+          "quantity": 1
+        },
+        {
+          "id": 15,
+          "name": "Crab 0.5kg",
+          "image": "https://www.nutritionadvance.com/wp-content/uploads/2021/02/cooked-crab.jpg",
+          "price": 371,
+          "quantity": 1
+        }
+      ],
+      "total": "887.00"
+    }
+  ],
+  "payments": [
+    {
+      "id": "4317",
+      "name": "client22",
+      "amount": 164,
+      "method": "UPI",
+      "date": "10/7/2025, 9:06:06 pm"
+    },
+    {
+      "id": "555d",
+      "name": "client22",
+      "amount": 387,
+      "method": "Cash",
+      "date": "10/7/2025, 9:10:33 pm"
+    },
+    {
+      "id": "0c48",
+      "name": "client003",
+      "amount": 679,
+      "method": "Cash",
+      "date": "10/7/2025, 9:15:04 pm"
+    }
+  ]
+}

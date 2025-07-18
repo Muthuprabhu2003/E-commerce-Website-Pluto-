@@ -1,0 +1,42 @@
+.auth-container {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+.auth-form {
+  background: #f9f9f9;
+  padding: 30px;
+  width: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.order-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.order-table th,
+.order-table td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.order-table th {
+  background-color: #eee;
+}
+
+.abutton {
+  padding: 6px 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.abutton:hover {
+  background-color: #0056b3;
+}

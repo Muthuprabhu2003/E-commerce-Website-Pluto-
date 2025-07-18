@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "git": "^0.1.5",
+    "json-server": "^1.0.0-beta.3",
+    "package": "^1.0.1"
+  },
+  "name": "pluto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch ./database/db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
